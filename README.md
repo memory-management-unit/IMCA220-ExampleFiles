@@ -23,7 +23,7 @@
 4. Download raw file (top right corner of file editor) OR copy/paste the code into Max
 
 ## CHEAT SHEETS
-- The Max Ecosystem
+- [The Max Ecosystem](MaxMSP/_cheat_sheets/Max_Fundamentals_Ecosystem.png)
 - Max Data Types
 - Objects + Messages
 - Arguments + Data Flow
