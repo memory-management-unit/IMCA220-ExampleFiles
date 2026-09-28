@@ -1,0 +1,18 @@
+Pack: DJBB - DIY Electromagnetic FX
+
+Description:
+———————————
+I recently created a few devices to listen to electromagnetic radiation (loosely based on https://store.lom.audio/products/priezor?variant=5859618062368). They are basically just a bunch of magnet wire wrapped in a coil of arbitrary diameter, an arbitrary number of times (for me, anyway), then soldered to a 3.5 mm jack.
+
+These samples were created by recording various electronic devices (telephone poles, my phone, my router, 3d printer, etc.), then processing them through a tape machine (why? IDK, just for the hell of it), then normalized.
+
+Lots of buzzy / laser-y SFX. Also some weird unintelligible radio (or walkie talkie, or who know what) chatter in a few of them - picked this up by holding my antenna up to a specific telephone pole in my neighborhood. I could not reproduce with other telephone poles... no idea.
+
+Anyway, I think they sound nice, and are of high quality. I hope you like them!
+
+
+Contact:
+————————
+Twitter: @DjBajaBlast
+Email:   pileofcatbones@gmail.com
+Web:     djbajablast.com
