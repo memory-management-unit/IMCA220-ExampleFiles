@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 37.0, 87.0, 1609.0, 929.0 ],
+		"rect" : [ 2367.0, -791.0, 2177.0, 1433.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -21,7 +21,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_gl_texture" ],
-					"patching_rect" : [ 864.0, 285.0, 76.0, 22.0 ],
+					"patching_rect" : [ 987.0, 290.0, 76.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0
 					}
@@ -836,6 +836,12 @@
 				"bootpath" : "~/Documents/GitHub.nosync/IMCA220-ExampleFiles/MaxMSP/02_AudiovisualTransformations",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "fx.brcosa.genjit",
+				"bootpath" : "C74:/packages/Jitter Tools/code/fx/gen",
+				"type" : "gJIT",
 				"implicit" : 1
 			}
 , 			{
